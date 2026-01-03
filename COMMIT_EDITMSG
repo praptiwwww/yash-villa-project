@@ -1,0 +1,10 @@
+Improve video upload flexibility to accept more common file types
+
+Update the video upload component to accept a wider range of video file formats, including MP4, MOV, AVI, WMV, and WebM, by modifying the file type validation logic in `VideoUpload.tsx`.
+
+Replit-Commit-Author: Agent
+Replit-Commit-Session-Id: a39b8195-eec2-4d74-8265-6db6ecebbdfe
+Replit-Commit-Checkpoint-Type: full_checkpoint
+Replit-Commit-Event-Id: bb542263-e933-4fbb-8104-34647a3bbd18
+Replit-Commit-Screenshot-Url: https://storage.googleapis.com/screenshot-production-us-central1/394457c8-901e-4d32-86ed-a853bc75bc81/a39b8195-eec2-4d74-8265-6db6ecebbdfe/hrBEoBn
+Replit-Helium-Checkpoint-Created: true
